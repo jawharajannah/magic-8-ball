@@ -1,5 +1,5 @@
 # Magic-8-Ball
-A Python GUI application that simulates a classic Magic 8 Ball.  
+A Python GUI application that simulates a classic Magic 8 Ball.<br/>
 
 **Clone the repository**  
 ```git clone https://github.com/jawharajannah/Magic-8-Ball.git```
